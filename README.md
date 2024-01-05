@@ -31,10 +31,12 @@ Conheça o projeto dos cartões de estatísticas do GitHub (acima): [Anurag's Gi
 
 Faça como eu e coloque os ícones das tecnologias que você conhece ou está aprendendo: [Devicon](https://devicon.dev/)
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoRoccella/JoaoRoccella/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br>
+
+Animação gerada com [Platane/snk](https://github.com/Platane/snk) através do GitHub Actions. [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
