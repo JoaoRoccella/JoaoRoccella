@@ -15,10 +15,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/JoaoRoccella">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoRoccella&show_icons=true&theme=transparent">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRoccella&layout=compact&theme=transparent">
-  </a>
+  <picture>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=JoaoRoccella&show_icons=true&theme=transparent">
+  </picture>
+  &nbsp; 
+  <picture>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRoccella&layout=compact&theme=transparent">
+  </picture>
 </div>
 
 <br>
