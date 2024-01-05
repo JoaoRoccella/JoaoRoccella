@@ -34,8 +34,8 @@ Ao longo do curso você vai aprender a desenvolver aplicações Front-end Web ut
 
 <br><br>
 
-Conheça o projeto dos cartões de estatísticas do GitHub: [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+Conheça o projeto dos cartões com estatísticas do GitHub: [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
-Faça como eu e coloque no seu perfil os ícones das tecnologias que você conhece ou está aprendendo: [Devicon](https://devicon.dev/)
+Recheie o seu perfil com os ícones das tecnologias que você conhece ou está aprendendo! [Devicon](https://devicon.dev/)
 
-A animação da cobrinha foi gerada com [Platane/snk](https://github.com/Platane/snk) através do GitHub Actions [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
+Gerei a animação da cobrinha com o projeto [Platane/snk](https://github.com/Platane/snk) através do GitHub Actions [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
