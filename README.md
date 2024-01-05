@@ -24,7 +24,7 @@
   </picture>
 </div>
 
-<br>
+<br><br>
 
 <div style="display: inline_block" align="center">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -44,9 +44,18 @@
 </div>
 
 <br><br>
+<div align="center">
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoRoccella&theme=transparent&locale=pt_BR&exclude_days=Sun%2CSat&card_width=560" alt="GitHub Streak" />
+  </picture>
+</div>
+
+<br><br>
 
 Conheça o projeto dos cartões com estatísticas do GitHub: [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
   
 Recheie o seu perfil com os ícones das tecnologias que você conhece ou está aprendendo! [Devicon](https://devicon.dev/)
   
 Gerei a animação da cobrinha com o projeto [Platane/snk](https://github.com/Platane/snk) através do GitHub Actions [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
+
+Cartão de sequência atual veio do projeto [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
