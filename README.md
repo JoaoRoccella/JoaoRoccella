@@ -45,9 +45,9 @@
 
 <br><br>
 <div align="center">
-  <picture>
+  <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=JoaoRoccella&theme=transparent&locale=pt_BR&exclude_days=Sun%2CSat&card_width=560" alt="GitHub Streak" />
-  </picture>
+  </a>
 </div>
 
 <br><br>
