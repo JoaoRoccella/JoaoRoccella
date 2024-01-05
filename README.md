@@ -15,17 +15,13 @@
 <br>
 
 <div align="center">
-  <picture>
     <a href="#">
       <img align="center" height="190" src="https://github-readme-stats.vercel.app/api?username=JoaoRoccella&show_icons=true&theme=transparent">
     </a>
-  </picture>
   &nbsp; 
-  <picture>
     <a href="#">
       <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRoccella&layout=compact&theme=transparent">
     </a>
-  </picture>
 </div>
 
 <br><br>
