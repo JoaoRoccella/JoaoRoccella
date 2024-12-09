@@ -1,8 +1,8 @@
 ### Olá, pessoal!
 
-<p align="justify">Eu sou o João Marcos, instrutor de formação profissional no <strong>SENAI São Paulo</strong> e docente do curso de <strong>Desenvolvedor Front-end</strong> do programa <strong>Ford &lt;ENTER&gt;</strong>, uma parceria entre a <strong>Ford Motor Company Brasil</strong>, <strong>Ford Fund</strong> e <strong>SENAI-SP</strong>. Vamos caminhar juntos essa jornada de aprendizado e fazer decolar sua carreira em tecnologia.</p>
+<p align="justify">Eu sou o João Marcos, instrutor de formação profissional no <strong>SENAI São Paulo</strong> e docente de TI nos cursos de <strong>Análise e Desenvolvimento de Sistemas</strong> do Novo Ensino Médio no <strong><a href="https://sp.senai.br/cursos/0/tecnologia-da-informacao-e-informatica?unidade=113" target="_blank">SENAI Conde José Vicente de Azevedo (Alto do Ipiranga) - CFP 1.13</a></strong>. Vamos caminhar juntos essa jornada de aprendizado e fazer decolar sua carreira em tecnologia?</p>
 
-<p align="justify">Ao longo do curso você vai aprender a desenvolver aplicações Front-end Web utilizando as principais técnicas, ferramentas e tecnologias. Além disso, vai se preparar para ingressar no mercado de trabalho, colocando suas competências técnicas e socioemocionais à prova.</p>
+<p align="justify">Ao longo do curso você vai aprender a desenvolver aplicações utilizando as principais técnicas, ferramentas e tecnologias da indústria de software. Além disso, vai se preparar para ingressar no mercado de trabalho, colocando suas competências técnicas e socioemocionais à prova.</p>
 
 <div align="center">
 <picture>
