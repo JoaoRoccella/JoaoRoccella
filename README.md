@@ -1,8 +1,5 @@
 ### Olá, pessoal!
-
-<p align="justify">Eu sou o João Marcos, instrutor de formação profissional no <strong>SENAI São Paulo</strong> e docente de TI nos cursos de <strong>Análise e Desenvolvimento de Sistemas</strong> do Novo Ensino Médio no <strong><a href="https://sp.senai.br/cursos/0/tecnologia-da-informacao-e-informatica?unidade=113" target="_blank">SENAI Conde José Vicente de Azevedo (Alto do Ipiranga) - CFP 1.13</a></strong>. Vamos caminhar juntos essa jornada de aprendizado e fazer decolar sua carreira em tecnologia?</p>
-
-<p align="justify">Ao longo do curso você vai aprender a desenvolver aplicações utilizando as principais técnicas, ferramentas e tecnologias da indústria de software. Além disso, vai se preparar para ingressar no mercado de trabalho, colocando suas competências técnicas e socioemocionais à prova.</p>
+<p align="justify">Eu sou o João Marcos, instrutor de formação profissional no <strong>SENAI São Paulo</strong> e professor de TI nos cursos técnicos de <strong>Análise e Desenvolvimento de Sistemas</strong> do itinerário formativo do Novo Ensino Médio no <strong><a href="https://sp.senai.br/cursos/0/tecnologia-da-informacao-e-informatica?unidade=113" target="_blank">SENAI Conde José Vicente de Azevedo</a></strong>. Minha missão? Te ajudar a transformar curiosidade em habilidade e colocar sua carreira em tecnologia no caminho certo!</p> <p align="justify">Durante o curso, vamos explorar juntos o desenvolvimento de aplicações utilizando as principais técnicas e ferramentas da indústria de software. Mais do que codar, você vai aprender a resolver problemas, trabalhar em equipe e se preparar para os desafios do mercado de trabalho. Vamos nessa?</p>
 
 <div align="center">
 <picture>
@@ -52,10 +49,17 @@
 
 <br><br>
 
-Conheça o projeto dos cartões com estatísticas do GitHub: [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
-  
-Recheie o seu perfil com os ícones das tecnologias que você conhece ou está aprendendo! [Devicon](https://devicon.dev/)
-  
-Gerei a animação da cobrinha com o projeto [Platane/snk](https://github.com/Platane/snk) através do GitHub Actions [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)
+### Widgets que dão vida ao meu perfil  
 
-Cartão de sequência atual veio do projeto [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+💡 **Quer deixar seu perfil no GitHub mais interativo?** Confira os projetos incríveis que estou usando:  
+
+- ⭐ **Estatísticas do GitHub:** Mostre seus repositórios, linguagens e contribuições com estilo! Dá uma olhada no [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats).  
+
+- 🎨 **Ícones de tecnologias:** Recheie seu perfil com os ícones das ferramentas que você domina (ou está aprendendo). Conheça o [Devicon](https://devicon.dev/).  
+
+- 🐍 **Animação da cobrinha:** Sim, essa cobrinha estilosa que segue suas contribuições foi criada com o [Platane/snk](https://github.com/Platane/snk) usando GitHub Actions!  
+  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)  
+
+- 🔥 **Cartão de sequência:** Quer destacar sua dedicação no GitHub? Use o [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) para mostrar sua streak de commits com orgulho!  
+
+**Explore, customize e divirta-se mostrando seu estilo no GitHub!** 🚀  
