@@ -53,13 +53,12 @@
 
 💡 **Quer deixar seu perfil no GitHub mais interativo?** Confira os projetos incríveis que estou usando:  
 
-- ⭐ **Estatísticas do GitHub:** Mostre seus repositórios, linguagens e contribuições com estilo! Dá uma olhada no [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats).  
+- ⭐ **Estatísticas do GitHub:** [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats).  
 
-- 🎨 **Ícones de tecnologias:** Recheie seu perfil com os ícones das ferramentas que você domina (ou está aprendendo). Conheça o [Devicon](https://devicon.dev/).  
+- 🎨 **Ícones de tecnologias:** [Devicon](https://devicon.dev/).  
 
-- 🐍 **Animação da cobrinha:** Sim, essa cobrinha estilosa que segue suas contribuições foi criada com o [Platane/snk](https://github.com/Platane/snk) usando GitHub Actions!  
-  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)  
+- 🐍 **Animação da cobrinha:** [Platane/snk](https://github.com/Platane/snk)  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)  
 
-- 🔥 **Cartão de sequência:** Quer destacar sua dedicação no GitHub? Use o [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) para mostrar sua streak de commits com orgulho!  
+- 🔥 **Cartão de sequência:** [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
 **Explore, customize e divirta-se mostrando seu estilo no GitHub!** 🚀  
