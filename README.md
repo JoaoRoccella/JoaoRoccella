@@ -49,9 +49,7 @@
 
 <br><br>
 
-### Widgets que dão vida ao meu perfil  
-
-💡 **Quer deixar seu perfil no GitHub mais interativo?** Confira os projetos incríveis que estou usando:  
+💡 **Quer deixar seu perfil no GitHub mais interessante e informativo?** Confira os projetos incríveis que estou usando:  
 
 - ⭐ **Estatísticas do GitHub:** [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats).  
 
@@ -60,5 +58,3 @@
 - 🐍 **Animação da cobrinha:** [Platane/snk](https://github.com/Platane/snk)  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/joaoroccella/joaoroccella/cobrinha.yml?label=action&style=flat-square)](https://github.com/JoaoRoccella/JoaoRoccella/actions/workflows/cobrinha.yml)  
 
 - 🔥 **Cartão de sequência:** [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)  
-
-**Explore, customize e divirta-se mostrando seu estilo no GitHub!** 🚀  
