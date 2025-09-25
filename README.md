@@ -47,6 +47,67 @@
   </a>
 </div>
 
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/JoaoRoccella"> 🔗
+  https://gitfollio.vercel.app/JoaoRoccella
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Joao Roccella",
+  "email": "joao.a@docente.senai.br",
+  "tagline": "Fullstack Developer",
+  "avatar_url": "https://avatars.githubusercontent.com/u/5804196?v=4",
+  "website": "",
+  "githubUser": "JoaoRoccella",
+  "linkedinUser": "https://www.linkedin.com/in/joaoroccella/",
+  "about": "",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 218,
+  "following": 235,
+  "themeId": "cyberpunk",
+  "tech": [],
+  "projects": [
+  {
+    "id": 730717724,
+    "repoName": "interacao-com-APIs",
+    "url": "https://github.com/JoaoRoccella/interacao-com-APIs",
+    "stars": 20,
+    "description": "Interação com APIs",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 892271229,
+    "repoName": "cadastro-vingadores",
+    "url": "https://github.com/JoaoRoccella/cadastro-vingadores",
+    "stars": 2,
+    "description": "Aplicação backend de cadastro de vingadores em Python",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1042669504,
+    "repoName": "agendaJS",
+    "url": "https://github.com/JoaoRoccella/agendaJS",
+    "stars": 1,
+    "description": "Projeto de uma agenda de tarefas escrito em JavaScript para a unidade curricular de Linguagem de Marcação. ",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+
 <br><br>
 
 💡 **Quer deixar seu perfil no GitHub mais interessante e informativo?** Confira os projetos incríveis que estou usando:  
